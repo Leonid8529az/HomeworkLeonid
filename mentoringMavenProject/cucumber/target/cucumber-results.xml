@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="ContactFormWork" name="Testing sending emails from my contact form" time="0">
+<skipped><![CDATA[Given I go to http://pocketsdeveloper.com/contacts/.........................undefined
+When I parse my name........................................................undefined
+And I parse my email........................................................undefined
+And I parse the subject.....................................................undefined
+And I click send Button.....................................................undefined
+Then I get the message "Your message was sent successfully".................undefined
+]]></skipped>
+</testcase>
+</testsuite>

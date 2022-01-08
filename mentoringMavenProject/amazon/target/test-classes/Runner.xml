@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="AmazonSuite" parallel="false">
+
+    <parameter name="url"  value="https://www.amazon.com/"/>
+
+    <test name="AmazonTest">
+        <classes>
+            <class name="AmazonSignInTest"/>
+        </classes>
+    </test>
+</suite>

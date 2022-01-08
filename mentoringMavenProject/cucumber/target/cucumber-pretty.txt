@@ -1,0 +1,9 @@
+Feature: ContactFormWork
+
+  Scenario: Testing sending emails from my contact form         [90m# contactform.feature:3[0m
+    [33mGiven [0m[33mI go to http://pocketsdeveloper.com/contacts/[0m
+    [33mWhen [0m[33mI parse my name[0m
+    [33mAnd [0m[33mI parse my email[0m
+    [33mAnd [0m[33mI parse the subject[0m
+    [33mAnd [0m[33mI click send Button[0m
+    [33mThen [0m[33mI get the message "Your message was sent successfully"[0m
