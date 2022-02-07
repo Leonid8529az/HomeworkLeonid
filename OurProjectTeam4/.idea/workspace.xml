@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecae1a73-ca72-46f0-931b-af58b59143bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingExamMike" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingExamMike" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketsBootcampWebAndMobile" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketsBootcampWebAndMobile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketsCucumberTesting" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketsCucumberTesting" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PocketsTestAPI" beforeDir="false" afterPath="$PROJECT_DIR$/../PocketsTestAPI" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeamProject" beforeDir="false" afterPath="$PROJECT_DIR$/../TeamProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeamProject7" beforeDir="false" afterPath="$PROJECT_DIR$/../TeamProject7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pocketsMobileTest" beforeDir="false" afterPath="$PROJECT_DIR$/../pocketsMobileTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testCucumberProjectBeforeMentor" beforeDir="false" afterPath="$PROJECT_DIR$/../testCucumberProjectBeforeMentor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webAutomation" beforeDir="false" afterPath="$PROJECT_DIR$/../webAutomation" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/Statefarm/target/" />
+    <ignored path="$PROJECT_DIR$/Walmart/target/" />
+    <ignored path="$PROJECT_DIR$/Alibaba/target/" />
+    <ignored path="$PROJECT_DIR$/Facebook/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/OurAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-516">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#608#1112#0" />
+                <element signature="e#1121#2214#0" />
+                <element signature="e#2368#2589#0" />
+                <element signature="e#2594#2926#0" />
+                <element signature="e#3033#3181#0" />
+                <element signature="e#3186#3370#0" />
+                <element signature="e#3375#3525#0" />
+                <element signature="e#3530#3681#0" />
+                <element signature="e#4274#4982#0" />
+                <element signature="e#4987#5319#0" />
+                <element signature="e#5324#5488#0" />
+                <element signature="e#5493#5750#0" />
+                <element signature="e#5755#5965#0" />
+                <element signature="e#6068#6250#0" />
+                <element signature="e#6255#6384#0" />
+                <element signature="e#6389#6808#0" />
+                <element signature="e#6903#7163#0" />
+                <element signature="e#7168#7420#0" />
+                <element signature="e#7425#7706#0" />
+                <element signature="e#7711#7996#0" />
+                <element signature="e#8001#8284#0" />
+                <element signature="e#8289#8577#0" />
+                <element signature="e#8582#8861#0" />
+                <element signature="e#8866#9150#0" />
+                <element signature="e#9155#9609#0" />
+                <element signature="e#9615#9844#0" />
+                <element signature="e#9849#10119#0" />
+                <element signature="e#10212#10774#0" />
+                <element signature="e#10779#11050#0" />
+                <element signature="e#11055#11328#0" />
+                <element signature="e#11333#11523#0" />
+                <element signature="e#11390#11443#0" />
+                <element signature="e#11528#11747#0" />
+                <element signature="e#11591#11655#0" />
+                <element signature="e#11752#11975#0" />
+                <element signature="e#11980#12201#0" />
+                <element signature="e#12206#12432#0" />
+                <element signature="e#12437#12654#0" />
+                <element signature="e#12659#12881#0" />
+                <element signature="e#12886#13278#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/ReadMe.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="36" column="72" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/log4j2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alibaba/src/test/resources/Runner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/Runner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Statefarm/src/test/resources/Runner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Walmart/src/test/resources/Runner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Alibaba/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Statefarm/pom.xml" />
+        <option value="$PROJECT_DIR$/Walmart/pom.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/pom.xml" />
+        <option value="$PROJECT_DIR$/Facebook/pom.xml" />
+        <option value="$PROJECT_DIR$/Statefarm/src/test/java/Team4Pro/AppTest.java" />
+        <option value="$PROJECT_DIR$/Walmart/src/test/java/Team4Pro/AppTest.java" />
+        <option value="$PROJECT_DIR$/Alibaba/src/test/java/Team4Pro/AppTest.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/java/Team4Pro/AppTest.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/resources/log4j2" />
+        <option value="$PROJECT_DIR$/Generic/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/TestTeTS.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Alibaba/src/test/resources/Runner.xml" />
+        <option value="$PROJECT_DIR$/Walmart/src/test/resources/Runner.xml" />
+        <option value="$PROJECT_DIR$/Statefarm/src/test/resources/Runner.xml" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/resources/Runner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/OurAPI.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/ReadMe.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-670" />
+    <option name="y" value="160" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OurProjectTeam4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OurProjectTeam4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wormi\IdeaProjects\OurProjectTeam4\Walmart\src\test" />
+      <recent name="C:\Users\wormi\IdeaProjects\OurProjectTeam4\Statefarm\src\test" />
+      <recent name="C:\Users\wormi\IdeaProjects\OurProjectTeam4\Facebook\src\test" />
+      <recent name="C:\Users\wormi\IdeaProjects\OurProjectTeam4\Facebook\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wormi\IdeaProjects\OurProjectTeam4\Alibaba\src\test" />
+      <recent name="C:\Users\wormi\IdeaProjects\OurProjectTeam4\.idea" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestTeTS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestTeTS" />
+      <module name="Generic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestTeTS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecae1a73-ca72-46f0-931b-af58b59143bf" name="Default Changelist" comment="" />
+      <created>1644198428723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644198428723</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25670242" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32904148" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32904148" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39914164" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32841823" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Statefarm/src/test/java/Team4Pro/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Walmart/src/test/java/Team4Pro/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alibaba/src/test/java/Team4Pro/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/Team4Pro/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/target/classes/Team4Pro/App.class" />
+    <entry file="file://$PROJECT_DIR$/Facebook/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+    <entry file="file://$PROJECT_DIR$/Facebook/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+    <entry file="file://$PROJECT_DIR$/Facebook/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+    <entry file="file://$PROJECT_DIR$/.idea/log4j2" />
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/log4j2" />
+    <entry file="file://$PROJECT_DIR$/Statefarm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Walmart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/Team4Pro/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/TestTeTS.java" />
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/resources/Runner.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alibaba/src/test/resources/Runner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/Runner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Statefarm/src/test/resources/Runner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Walmart/src/test/resources/Runner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alibaba/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/OurAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-516">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#608#1112#0" />
+            <element signature="e#1121#2214#0" />
+            <element signature="e#2368#2589#0" />
+            <element signature="e#2594#2926#0" />
+            <element signature="e#3033#3181#0" />
+            <element signature="e#3186#3370#0" />
+            <element signature="e#3375#3525#0" />
+            <element signature="e#3530#3681#0" />
+            <element signature="e#4274#4982#0" />
+            <element signature="e#4987#5319#0" />
+            <element signature="e#5324#5488#0" />
+            <element signature="e#5493#5750#0" />
+            <element signature="e#5755#5965#0" />
+            <element signature="e#6068#6250#0" />
+            <element signature="e#6255#6384#0" />
+            <element signature="e#6389#6808#0" />
+            <element signature="e#6903#7163#0" />
+            <element signature="e#7168#7420#0" />
+            <element signature="e#7425#7706#0" />
+            <element signature="e#7711#7996#0" />
+            <element signature="e#8001#8284#0" />
+            <element signature="e#8289#8577#0" />
+            <element signature="e#8582#8861#0" />
+            <element signature="e#8866#9150#0" />
+            <element signature="e#9155#9609#0" />
+            <element signature="e#9615#9844#0" />
+            <element signature="e#9849#10119#0" />
+            <element signature="e#10212#10774#0" />
+            <element signature="e#10779#11050#0" />
+            <element signature="e#11055#11328#0" />
+            <element signature="e#11333#11523#0" />
+            <element signature="e#11390#11443#0" />
+            <element signature="e#11528#11747#0" />
+            <element signature="e#11591#11655#0" />
+            <element signature="e#11752#11975#0" />
+            <element signature="e#11980#12201#0" />
+            <element signature="e#12206#12432#0" />
+            <element signature="e#12437#12654#0" />
+            <element signature="e#12659#12881#0" />
+            <element signature="e#12886#13278#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="72" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Generic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
